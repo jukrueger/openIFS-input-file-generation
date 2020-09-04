@@ -1,0 +1,4 @@
+&parameter
+name=<current_variable2_name> 
+out_name=<output_variable2_name>
+standard_name=<description_of_variable2> 
