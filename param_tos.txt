@@ -1,0 +1,13 @@
+&parameter
+  name            = var1
+  out_name        = var139 
+  standard_name   = soil_temperature_level_1
+  units           = "K" 
+  missing_value   = 1e+20
+  valid_min       = 160
+  valid_max       = 340
+  param           = 139
+  table           = 128
+  shortName       = stl1
+  typeOfLevel     = depthBelowLandLayer
+/
