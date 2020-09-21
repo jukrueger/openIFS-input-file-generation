@@ -1,0 +1,12 @@
+&parameter
+  name            = var1
+  out_name        = var31
+  standard_name   = sea_ice_area_fraction
+  units           = "0-1" 
+  missing_value   = 1e+20
+  valid_min       = 0
+  valid_max       = 1
+  param           = 31
+  table           = 128
+  shortName       = ci
+/
